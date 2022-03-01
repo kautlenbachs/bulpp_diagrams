@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T08:24:01.337Z" agent="5.0 (X11)" version="16.6.2" etag="AIf_3sDUjYlz1QsUR3qX" type="github"><diagram id="SNoBqOypM2UpMaVSAHki">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-01T08:46:33.597Z" agent="5.0 (X11)" etag="uSmYiQ_Hy4IZQEAqJW0l" version="16.6.2" type="github">
+  <diagram id="SNoBqOypM2UpMaVSAHki" name="Page-1">
+    <mxGraphModel dx="2062" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VuzW8GXzsAqmzw6oY8kO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VuzW8GXzsAqmzw6oY8kO-1" target="VuzW8GXzsAqmzw6oY8kO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VuzW8GXzsAqmzw6oY8kO-1" value="Main control node" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuzW8GXzsAqmzw6oY8kO-2" value="Processing node" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuzW8GXzsAqmzw6oY8kO-4" value="Processing node" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuzW8GXzsAqmzw6oY8kO-5" value="Processing node" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuzW8GXzsAqmzw6oY8kO-6" value="Processing node" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuzW8GXzsAqmzw6oY8kO-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="VuzW8GXzsAqmzw6oY8kO-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="480" as="sourcePoint" />
+            <mxPoint x="370" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
