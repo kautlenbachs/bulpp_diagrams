@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T09:05:29.933Z" agent="5.0 (X11)" etag="wJxP-f-nSkyQmlopAB15" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T09:05:43.562Z" agent="5.0 (X11)" etag="JyIU3Ndh2z9NNiyyCX_G" version="17.2.2" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2062" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -54,27 +54,6 @@
         </mxCell>
         <mxCell id="Y2bo1etCXWaRGln3_rKA-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#23445D;strokeWidth=4;endFill=1;fontStyle=1;" parent="1" source="16" target="Y2bo1etCXWaRGln3_rKA-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2bo1etCXWaRGln3_rKA-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#23445D;strokeWidth=4;endFill=1;fontStyle=1;" parent="1" source="Y2bo1etCXWaRGln3_rKA-62" target="Y2bo1etCXWaRGln3_rKA-67" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2bo1etCXWaRGln3_rKA-62" value="DC bias estimation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2bo1etCXWaRGln3_rKA-63" value="Input" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=default;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;sketch=0;glass=0;noLabel=0;fixDash=0;backgroundOutline=0;gradientDirection=south;" parent="1" vertex="1">
-          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2bo1etCXWaRGln3_rKA-64" value="Input" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=default;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2bo1etCXWaRGln3_rKA-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#23445D;strokeWidth=4;endFill=1;fontStyle=1;" parent="1" source="Y2bo1etCXWaRGln3_rKA-65" target="Y2bo1etCXWaRGln3_rKA-62" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2bo1etCXWaRGln3_rKA-65" value="Input" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=default;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2bo1etCXWaRGln3_rKA-67" value="DC bias correction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;shadow=1;gradientColor=none;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3inxD1MIb9kolvRJ3LJd-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#23445D;strokeWidth=4;endFill=1;fontStyle=1;" edge="1" parent="1" source="3inxD1MIb9kolvRJ3LJd-44" target="3">
           <mxGeometry relative="1" as="geometry" />
