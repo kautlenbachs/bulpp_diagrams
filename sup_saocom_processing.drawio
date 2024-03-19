@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T12:47:32.045Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="22.1.20" etag="rbjvSasbBD8OZ5maPGI-" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T12:53:59.835Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="GXI_LY-Ctld0UmL5W1F1" version="22.1.20" type="github">
   <diagram name="Page-1" id="S4iD2IkzIgUmk9SXDSxy">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s4lBdMN9t_Ssbr39f7N7-2" value="L1A" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s4lBdMN9t_Ssbr39f7N7-3" value="L1B" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s4lBdMN9t_Ssbr39f7N7-4" value="L1C" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s4lBdMN9t_Ssbr39f7N7-5" value="L1D" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s4lBdMN9t_Ssbr39f7N7-6" value="&lt;div&gt;STRIPMAP&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.wave2;dy=0.3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s4lBdMN9t_Ssbr39f7N7-7" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; TOPSAR&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.wave2;dy=0.3;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s4lBdMN9t_Ssbr39f7N7-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.wave2;dy=0.3;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s4lBdMN9t_Ssbr39f7N7-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.wave2;dy=0.3;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
